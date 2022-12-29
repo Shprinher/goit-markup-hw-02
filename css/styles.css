@@ -15,8 +15,8 @@
 
 .address{font-style: normal;
 }
-.link-color{
-color: #2E2F42;}
+.link-color{color: #2E2F42;}
+.link-color:active{color: #404BBF}
 
 .logo-link{
 font-family: 'Raleway',sans-serif;
@@ -62,6 +62,7 @@ cursor: pointer;
 
 color: var(--text-button);
 background: #4D5AE5;}
+.order-button:hover{background: #404BBF;}
 
 .buttons {
 font-family: inherit;
